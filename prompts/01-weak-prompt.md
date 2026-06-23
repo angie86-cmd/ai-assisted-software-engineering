@@ -16,7 +16,7 @@ Create a Python program that calculates the Fibonacci sequence.
 
 ## Analysis
 
-This prompt specifies the task but leaves many important engineering decisions undefined.
+This prompt specifies the task, but leaves many important engineering decisions undefined.
 
 The prompt does not specify:
 
